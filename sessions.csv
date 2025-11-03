@@ -1,0 +1,50 @@
+timestamp,name,gender,diagnosis,matched_symptoms
+2025-10-31T14:38:16.549510,suyash,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T14:39:55.428856,suyash,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T14:40:28.769973,suyash,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T14:44:56.891044,suyash,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T14:48:21.830413,suyash,m,Pneumonia,Fever;Chest pain;Shortness in breath;Nausea;Sweating with chills;Rapid breathing;Cough with phlegm;Diarrhea
+2025-10-31T14:49:41.126427,neha,f,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T14:52:42.898958,neha,f,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T14:56:53.623967,suyash,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T14:58:09.882266,asdfghjk,m,Pancreatitis,Nausea;Fever;Upper abdominal pain;Fast heartbeat;Weight loss;Oily and smelly stool
+2025-10-31T14:59:47.628588,neha,f,Dengue,High fever;Headache;Eye pain;Muscle pain;Joint pains;Nausea;Rashes;Bleeding
+2025-10-31T15:01:09.090250,qwertyu,f,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:14:29.928166,xcv,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:15:02.471962,cvbn,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:17:27.845056,wer,f,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:19:17.273039,dfg,f,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:20:42.647951,we,f,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T15:21:14.658415,er,m,Dengue,High fever;Headache;Eye pain;Muscle pain;Joint pains;Nausea;Rashes;Bleeding
+2025-10-31T15:22:19.970676,kjhgfds,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T15:22:40.178286,kjhgf,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T15:23:33.861662,lkjhgf,m,Hepatitis,Fever;Fatigue;Abdominal pain;Flu-like symptoms;Dark urine;Pale stool;Weight loss;Jaundice
+2025-10-31T15:27:42.868420,dsfghjk,m,Malaria,Fever;Chills;Abdominal pain;Nausea;Headache;Sweating;Cough;Weakness;Muscle pain;Back pain
+2025-10-31T15:44:51.407310,ghjk,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T15:45:15.380750,gfd,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:45:39.708975,werr,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:46:08.105513,qewrtyy,m,Emergency - Seek immediate medical attention,Severe symptoms reported
+2025-10-31T15:46:36.109161,qwertyy,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T15:54:44.959530,eruw,m,Malaria,Fever;Chills;Abdominal pain;Nausea;Headache;Sweating;Cough;Weakness;Muscle pain;Back pain
+2025-10-31T15:58:06.452926,kjhgfd,f,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T16:03:45.201048,xyz,f,Tuberculosis,fever;chest pain;fatigue;loss of appetite;persistent cough
+2025-10-31T23:49:35.055393,Ayush,m,No match,Symptoms did not match known patterns — consult a physician
+2025-10-31T23:54:00.722767,Preeti,f,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:00:26.460177,Aman,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:02:45.507851,Kashish,f,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:10:18.232934,Abhay,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:14:47.665900,Kirti,f,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:16:16.416619,abc,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T00:33:21.501422,Muskan,f,Hepatitis,Fever;Fatigue;Abdominal pain;Flu-like symptoms;Dark urine;Pale stool;Weight loss;Jaundice
+2025-11-01T00:41:16.011169,Aasha,f,COVID-19,Fever;Fatigue;Shortness in breath;Nausea;Chills;Cough;Body aches;Headache;Sore throat;Diarrhea;Loss of taste/smell
+2025-11-01T00:52:29.985634,xyz,m,Bronchitis,Slight Fever;Cough;Wheezing;Chills in body;Tightness in chest;Sore throat;Body aches;Headache;Breathlessness;Blocked nose
+2025-11-01T09:31:19.255205,wertyui,m,Malaria,Fever;Chills;Abdominal pain;Nausea;Headache;Sweating;Cough;Weakness;Muscle pain;Back pain
+2025-11-01T09:35:23.110147,fgh,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T09:39:59.107731,fdghj,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T09:40:34.977702,fgh,m,Malaria,Fever;Chills;Abdominal pain;Nausea;Headache;Sweating;Cough;Weakness;Muscle pain;Back pain
+2025-11-01T09:41:15.109563,hjgv,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T09:42:03.573096,tftykgfv,m,No match,Symptoms did not match known patterns — consult a physician
+2025-11-01T09:49:50.960626,dfgfh,m,Dengue,eye_pain;high_fever;joint_pain;rashes,eye_pain;fatigue;high_fever;joint_pain;rashes;red_eyes
+2025-11-01T09:51:09.749587,fsdghjk,m,Dengue,headache;high_fever;joint_pain;rashes,headache;high_fever;joint_pain;rashes;red_eyes;short_breath
+2025-11-01T09:51:53.919330,rewtryui,f,Tuberculosis,fever,fever
+2025-11-01T10:27:31.396583,Kirti,m,Tuberculosis,chest_pain;fatigue;fever,chest_pain;fatigue;fever;headache;nasal_congestion;red_eyes;short_breath;sore_throat
